@@ -1,3 +1,5 @@
+Notion Link:  https://www.notion.so/Encode-Week2-homework-0f6d82798d7b45269c63e8444cf2e93d
+
 # Weekend Project
 * Form groups of 3 to 5 students
 * Develop and run scripts for “Ballot.sol” within your group to give voting rights, casting votes, delegating votes and querying results
