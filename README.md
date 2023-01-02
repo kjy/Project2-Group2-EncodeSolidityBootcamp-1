@@ -1,4 +1,6 @@
-Notion Link:  https://www.notion.so/Encode-Week2-homework-0f6d82798d7b45269c63e8444cf2e93d
+Notion Link Project 1:  https://antique-vault-360.notion.site/Project-1-Group-2-6c70f0210dc744e4ac9af8c6189912d0
+
+Notion Link Project 2 (for this github repo):  https://www.notion.so/Encode-Week2-homework-0f6d82798d7b45269c63e8444cf2e93d
 
 # Weekend Project
 * Form groups of 3 to 5 students
